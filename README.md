@@ -1,0 +1,2 @@
+# mining_verus
+script
