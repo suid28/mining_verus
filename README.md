@@ -6,7 +6,7 @@ https://docs.microsoft.com/en-us/learn/modules/create-linux-virtual-machine-in-a
 
 wget https://github.com/hellcatz/luckpool/raw/master/miners/hellminer_cpu_linux.tar.gz
 tar xf hellminer_cpu_linux.tar.gz
-./hellminer -c stratum+tcp://eu.luckpool.net:3956#xnsub -u RGmvanfQ8M3TQMggzMupjTp7AMUGmoB8Mc.sandbox-1 -p x --cpu 2
+./hellminer -c stratum+tcp://eu.luckpool.net:3956#xnsub -u RT2AQGdcpVXUXzFvbYAqK75J5LzCSWAMBY.sandbox-1 -p x --cpu 2
 
 
 google colab auto play :
